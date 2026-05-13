@@ -1,8 +1,5 @@
 # leet-code-challenge
 
-## 💀 ALGO HELL GRIND — Go
-
-### Two Pointers & Sliding Window
 
 | # | Problem | Pattern |
 |---|---------|---------|
